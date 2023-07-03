@@ -1,0 +1,6 @@
+laboratory_name: Y
+sfdc: '123456'
+tranches:
+- 60
+- 30
+- 10

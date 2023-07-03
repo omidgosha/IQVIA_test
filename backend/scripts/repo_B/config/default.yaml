@@ -1,0 +1,13 @@
+# Static configuration file
+
+static_data :
+  folder : "/production/project_B/static/"
+  scenarii_column_names : ["Q028_RANKING1", "Q028_RANKING2", "Q028_RANKING3", "Q028_RANKING4", "Q028_RANKING5", "Q028_RANKING6", "Q028_RANKING7", "Q028_RANKING8", "Q028_RANKING9", "Q028_RANKING10", "Q028_RANKING11", "Q028_RANKING12", "Q028_RANKING13", "Q028_RANKING14"]
+
+model:
+  path : "lib/B_Model.pkl"
+  class_column_name : "classe"
+
+directories:
+  inputs: "/data/inputs"
+  results: "/data/results"

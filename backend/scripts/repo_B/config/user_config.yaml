@@ -1,0 +1,9 @@
+# Configuration file to be modified by User
+
+inputs :
+  questionnaire_file : 'input_questions.xlsx'
+  identification_column : 'MY_ID'
+
+results :
+  file : 'result_file'
+  labo : 'my_client'

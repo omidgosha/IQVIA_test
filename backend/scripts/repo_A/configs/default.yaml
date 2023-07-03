@@ -1,0 +1,11 @@
+################
+### DEFAULT ####
+################
+extrapo_with_proba: True
+
+OUTPUT_FOLDER : "OUTPUTS/"
+INPUT_FOLDER : "INPUTS/"
+PARAM_FOLDER :  "src/settings/"
+encoding : "iso-8859-2"
+
+taille_min_classe : 30

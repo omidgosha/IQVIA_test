@@ -1,0 +1,8 @@
+chardet
+mpu
+numpy
+openpyxl
+pandas
+PyYAML
+scikit-learn
+scipy

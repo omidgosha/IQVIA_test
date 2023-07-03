@@ -1,0 +1,32 @@
+{
+    "repo_A": {
+        "description": "This is Script named repo_A",
+        "config_file_name": "user.yaml",
+        "arguments": [
+            {
+                "name": "laboratory_name",
+                "type": "string"
+            },
+            {
+                "name": "sfdc",
+                "type": "int"
+            }
+        ],
+        "author": "Author 1"
+    },
+    "repo_B": {
+        "description": "This is Script 2",
+        "config_file_name": "user_config.yaml",
+        "arguments": [
+            {
+                "name": "questionnaire_file",
+                "type": "file"
+            },
+            {
+                "name": "identification_column",
+                "type": "string"
+            }
+        ],
+        "author": "Author 2"
+    }
+}
